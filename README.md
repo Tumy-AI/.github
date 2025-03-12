@@ -1,0 +1,2 @@
+# .github
+Tumy.ai presentation
